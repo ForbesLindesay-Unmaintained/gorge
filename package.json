@@ -1,0 +1,22 @@
+{
+  "name": "gorge",
+  "version": "0.0.0",
+  "description": "Last + throat = gorge (for when you only care about the latest started async operation, and you only want to run it once at a time)",
+  "keywords": ["once", "throttle", "single file", "promise", "promises", "promises-aplus", "latest", "throat"],
+  "dependencies": {
+    "throat": "~1.0.0"
+  },
+  "devDependencies": {
+    "testit": "*",
+    "promise": "*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/gorge.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
