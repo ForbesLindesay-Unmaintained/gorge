@@ -1,5 +1,7 @@
 # gorge
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/gorge.svg)](https://greenkeeper.io/)
+
 Last + throat = gorge (for when you only care about the latest started async operation, and you only want to run it once at a time)
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/gorge/master.svg)](https://travis-ci.org/ForbesLindesay/gorge)
